@@ -1,5 +1,4 @@
 hi new file 
 
 
-this is the new commit
-
+a small change has been made on this file
